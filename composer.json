@@ -1,0 +1,20 @@
+{
+    "name": "igoche7v/Quote-package",
+    "description": "This library will generate random quotes",
+    "keywords": ["php", "random-quotes-generator"],
+    "homepage": "https://github.com/igoche7v/Quote-package.git",
+    "type": "library",
+    
+    "authors": [{
+       
+            "name": "Elizabeth Agada",
+            "email": "elizadave6@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RandomQuotes\\": "src/"
+        }
+    },
+    "require": {}
+}
